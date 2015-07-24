@@ -8,3 +8,4 @@ Ionicoco utilize the advantage of IONIC and Cocos2D-X to develop a mobile game. 
 * Bone animations (2D, 2.5D), Layer
 
 Welcome to join us!
+Andrew Zhi
