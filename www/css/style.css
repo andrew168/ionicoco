@@ -1,7 +1,6 @@
 /* Empty. Add your own CSS if you like */
 .min {
+    left: 30px;
     color: #000;
-}
-.min1 {
-    color: #000;
+    z-index: 100;
 }
