@@ -5,3 +5,7 @@
     color: blue;
     z-index: 999;
 }
+
+.max {
+    width: 100px;
+}
